@@ -1,0 +1,12 @@
+Hardware list 
+Arduino
+temp and humid sensor aka DHT11
+Flame sensor
+LDR aka light sensor and laser
+IR remote
+IR receiver
+RGB
+Buzzer(accive)
+Joystick
+push button
+brain power
